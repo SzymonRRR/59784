@@ -41,3 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: "t\u0142o"
+    uniqueID: 738606193
+    locked: 0
+  - name: gracz
+    uniqueID: 1901429929
+    locked: 0
